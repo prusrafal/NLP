@@ -16,12 +16,3 @@ To explore this analysis:
 1. Request access to the dataset by contacting the repository owner.
 2. Ensure your environment is set up with Jupyter Notebook/Lab and necessary Python libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`, `nltk`, etc.).
 3. Open the `.ipynb` files in Jupyter for a detailed walkthrough of the analysis.
-
-## Contributions
-We welcome contributions to enhance this analysis. Please see the contributing guidelines for more details.
-
-## License
-This project is shared under the MIT License.
-
-## Acknowledgements
-This work is submitted as an assignment for the NLP course at Aarhus University. We extend our thanks to all contributors and the open-source community for the tools and libraries used in this project.
