@@ -9,7 +9,7 @@ The dataset includes Reddit posts, comments, and upvote metrics over the specifi
 ## Project Structure
 - `1_Data-Analysis.ipynb`: Preliminary data analysis to understand dataset characteristics.
 - `2_Sentiment-Analysis.ipynb`: Sentiment analysis to categorize public opinion.
-- `3_EDA_final.ipynb`: Final exploratory data analysis visualizing the results and identifying correlations with major events.
+- `3_EDA_final.ipynb`: Final exploratory data analysis visualizing the results and identifying correlations with most of the major events.
 
 ## Getting Started
 To explore this analysis:
