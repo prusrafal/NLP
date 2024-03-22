@@ -14,5 +14,5 @@ The dataset includes Reddit posts, comments, and upvote metrics over the specifi
 ## Getting Started
 To explore this analysis:
 1. Request access to the dataset by contacting the repository owner.
-2. Ensure your environment is set up with Jupyter Notebook/Lab and necessary Python libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`, `nltk`, etc.).
+2. Ensure your environment is set up via Jupyter Notebook/Lab and necessary Python libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`, `nltk`, etc.).
 3. Open the `.ipynb` files in Jupyter for a detailed walkthrough of the analysis.
